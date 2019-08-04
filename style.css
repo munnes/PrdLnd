@@ -141,6 +141,6 @@ main h2{
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 1) {
 main h2{
-   padding-top:150px;
+   padding-top:100px;
 }
 }
