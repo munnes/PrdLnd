@@ -134,9 +134,4 @@ main h2{
  align-items:center;
 }
 }
-/* iPad with landscape orientation. */                       
-@media all and (min-device-width: 768px)  {                         
-    main h2{
-   padding-top:150px;
-}           
-}
+
