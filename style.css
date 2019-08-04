@@ -141,6 +141,6 @@ main h2{
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2) {
     #header {
-        position:absolute;
+        position:relative;
     } 
 }
